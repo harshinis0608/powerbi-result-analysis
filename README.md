@@ -39,5 +39,18 @@ This upload showcases my contribution to a group project, focusing on visualizin
 
 > Open the `RESULT_ANALYSIS.pbix` file using Power BI Desktop (free from Microsoft).
 
+---
+
+## Screenshots
+
+### 1st Semester Dashboard
+![1st Semester](1st-sem-dashboard.png)
+
+### 3rd Semester Dashboard
+![3rd Semester](3rd-sem-dashboard.png)
+
+### 4th Semester Dashboard
+![4th Semester](4th-sem-dashboard.png)
+
 
 
